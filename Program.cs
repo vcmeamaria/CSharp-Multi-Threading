@@ -94,7 +94,7 @@ class Program
                     break;
 
                 case "8":
-                    ShowComingSoon("Fix Race Condition with lock");
+                    Snippet08LockRaceCondition.Run();
                     break;
 
                 case "9":
