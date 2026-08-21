@@ -82,7 +82,7 @@ class Program
                     break;
 
                 case "5":
-                    ShowComingSoon("Thread Life Cycle");
+                    Snippet05ThreadLifeCycle.Run();
                     break;
 
                 case "6":
