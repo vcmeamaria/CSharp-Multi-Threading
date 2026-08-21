@@ -90,7 +90,7 @@ class Program
                     break;
 
                 case "7":
-                    ShowComingSoon("Race Condition");
+                    Snippet07RaceCondition.Run();
                     break;
 
                 case "8":
