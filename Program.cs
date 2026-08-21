@@ -102,7 +102,7 @@ class Program
                     break;
 
                 case "10":
-                    ShowComingSoon("Using Monitor.TryEnter()");
+                    Snippet10MonitorTryEnter.Run();
                     break;
 
                 case "11":
