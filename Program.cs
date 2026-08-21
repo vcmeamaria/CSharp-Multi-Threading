@@ -74,7 +74,7 @@ class Program
                     break;
 
                 case "3":
-                    ShowComingSoon("Thread with Parameters");
+                    Snippet03ThreadWithParameters.Run();
                     break;
 
                 case "4":
