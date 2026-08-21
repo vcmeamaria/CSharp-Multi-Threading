@@ -98,7 +98,7 @@ class Program
                     break;
 
                 case "9":
-                    ShowComingSoon("Using Monitor");
+                    Snippet09Monitor.Run();
                     break;
 
                 case "10":
