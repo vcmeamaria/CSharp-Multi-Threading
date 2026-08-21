@@ -66,7 +66,7 @@ class Program
             switch (choice)
             {
                 case "1":
-                    ShowComingSoon("Current Thread Information");
+                    Snippet01CurrentThreadInformation.Run();
                     break;
 
                 case "2":
