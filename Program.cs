@@ -86,7 +86,7 @@ class Program
                     break;
 
                 case "6":
-                    ShowComingSoon("Using Thread.Join()");
+                    Snippet06ThreadJoin.Run();
                     break;
 
                 case "7":
