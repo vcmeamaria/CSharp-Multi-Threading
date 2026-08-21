@@ -70,7 +70,7 @@ class Program
                     break;
 
                 case "2":
-                    ShowComingSoon("Creating a Thread");
+                    Snippet02CreatingAThread.Run();
                     break;
 
                 case "3":
