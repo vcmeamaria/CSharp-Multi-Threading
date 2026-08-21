@@ -78,7 +78,7 @@ class Program
                     break;
 
                 case "4":
-                    ShowComingSoon("Foreground vs Background Thread");
+                    Snippet04BackgroundThread.Run();
                     break;
 
                 case "5":
