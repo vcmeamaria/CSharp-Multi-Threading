@@ -106,7 +106,7 @@ class Program
                     break;
 
                 case "11":
-                    ShowComingSoon("Deadlock");
+                    Snippet11Deadlock.Run();
                     break;
 
                 case "12":
